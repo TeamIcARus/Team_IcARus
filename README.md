@@ -1,4 +1,7 @@
 # Team_IcARus
 Team IcARusのHP管理
 
-ほげほげ
+css   : スタイルシート
+img   : 写真
+js    : スクリプト
+fonts : フォント
